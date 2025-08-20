@@ -31,17 +31,6 @@
 
 ---
 
-## 📂 Project Structure
-
-| File / Folder         | Description                         |
-|------------------------|-------------------------------------|
-| `boahscreen.png`       | Promotional poster for the app      |
-| `main.swift`           | Main entry point of the app (if any)|
-| `ViewControllers/`     | Contains the main UI components     |
-| `Models/`              | Holds data models and logic         |
-
----
-
 ## 👩‍💻 Contributors
 
 - [@ghalaghaa](https://github.com/ghalaghaa)
