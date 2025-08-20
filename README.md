@@ -1,7 +1,7 @@
 # 📝 Boah – Write, Express, and Save Your Emotions with Privacy and Smart Insights
 
 <p align="center">
-  <img src="boahscreen.png" alt="Boah App Poster" width="400"/>
+  <img src="boahScreen.png" alt="Boah App Poster" width="400"/>
 </p>
 
 **Boah** is an iOS application designed for young adults to express their emotions and thoughts freely through journaling and AI-powered analysis, all while maintaining complete privacy and emotional comfort.
